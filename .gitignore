@@ -1,0 +1,40 @@
+# General OS files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.temp
+temp_ip.txt
+ip.txt
+
+# Python / Django (Backend)
+.env
+db.sqlite3
+media/
+__pycache__/
+*.pyc
+*.pyo
+static/
+staticfiles/
+.venv/
+venv/
+env/
+post_output*.txt
+server_output*.txt
+test_output*.txt
+user_list.txt
+otp_list.txt
+traceback.txt
+profile_output.txt
+database_dump.sql
+
+# IDE / Editor Specific
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+.project
+.classpath
+.settings/
+.factorypath
